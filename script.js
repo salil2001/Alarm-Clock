@@ -38,7 +38,7 @@ function formatTime(time) {
 // plays the alarm ringtone at time setted.
 function ring(realTime) {
     audio.play();
-    alert('Hey! it is (realTime)')
+    alert('Hey! it is TIME')
     
 }
 // Shows the real time
